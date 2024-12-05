@@ -1,0 +1,5 @@
+# Created at 2024-12-03T00:22:08.724
+Boot Manifest-JAR contains absolute paths in classpath 'D:\srushti\project\Personal-Finance-Management-System-master\Backend\PersonalFinanceManagementSystem\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
